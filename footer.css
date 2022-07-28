@@ -6,14 +6,15 @@
    .link{
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     top: 7vmax;
     left: 8vmax;
-    width: 20rem;
+    width: 30vmax;
    }
    .link li{
     list-style-type: none;
-    margin-bottom: 1rem;
+    padding-bottom: 1pc;
+    padding-left:1pc;
    }
    .link li a{
     color: white;
